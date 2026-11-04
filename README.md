@@ -122,6 +122,5 @@ Only the seven relevant match files were used for this project.
 
 ## Author
 Qurat Ul Ain Ali
-Qurat Ul Ain Ali
 
 Cricket Analytics | Python | Data Visualisation
