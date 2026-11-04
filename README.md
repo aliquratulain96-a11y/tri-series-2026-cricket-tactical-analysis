@@ -1,8 +1,5 @@
-# tri-series-2026-cricket-tactical-analysis
+# Tri-series-2026-cricket-Tactical-Analysis
 Python-based tactical analysis of the 2026 Pakistan–England–Sri Lanka ODI Tri-Series using ball-by-ball data.
-# Tri-Series 2026: Tactical Cricket Analytics
-
-A ball-by-ball investigation of scoring patterns, innings progression and team performance in the Pakistan–England–Sri Lanka ODI Tri-Series.
 
 ## 1. Project Overview
 
